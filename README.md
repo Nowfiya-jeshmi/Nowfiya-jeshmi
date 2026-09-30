@@ -1,321 +1,250 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NOWFIYA%20JESHMI%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Graduate%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NOWFIYA%20JESHMI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=60&descSize=20&animation=fadeIn&color=0:05080d,50:0b3b63,100:0ea5e9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA8FF&center=true&vCenter=true&width=700&lines=Building+Web+and+IoT+Projects;Learning+Full+Stack+Development;Exploring+Python+and+REST+APIs;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+REST+APIs+%7C+MySQL;Full+Stack+Development+Learner;IoT+%26+Embedded+Systems;Building+Real-World+Projects" />
 
-<img src="https://img.shields.io/badge/EDUCATION-BCA%202023--2026-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-1E3A8A?style=for-the-badge"/>
+<br><br>
 
-<br/><br/>
+<a href="https://github.com/nowfiyashakkina"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://www.linkedin.com/in/nowfiya-jeshmi-9b386142b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:nowfiyajeshmi@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<a href="https://www.linkedin.com/in/nowfiya-jeshmi-9b386142/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="mailto:nowfiyajeshmi@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nowfiyashakkina">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/BCA%20Graduate-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20India-0369A1?style=flat-square"/> <img src="https://img.shields.io/badge/Open%20to%20Opportunities-075985?style=flat-square"/>
 
 </div>
 
-👩‍💻 About Me
-name: Nowfiya Jeshmi A
-education: Bachelor of Computer Applications (BCA), St. Joseph's College for Women, Tirupur
-role: Aspiring Software Developer
+👋 About Me
 
-focus:
-  - Python & Backend Development
-  - Full Stack Web Development
-  - REST API Development
-  - IoT & Embedded Systems
+I'm Nowfiya Jeshmi A, a BCA graduate with hands-on experience in Python backend development, REST APIs, MySQL, IoT and embedded systems.
 
-currently_learning:
-  - React.js
-  - Node.js
-  - Express.js
-  - MERN Stack
-  - AWS
-  - Docker
-  - Kubernetes
-  - DevOps
+Currently, I'm building my skills in Full Stack Development with React.js, Node.js, Express.js and modern development tools.
 
-mindset: Learn → Build → Test → Improve
+Learn  →  Build  →  Test  →  Improve
 
-BCA graduate with hands-on experience in Python-based backend development, database management, REST APIs, and IoT projects. I enjoy building practical software and hardware solutions, from command-line applications in C to sensor-based IoT systems and Salesforce CRM applications.
-
-I am currently developing my skills in Full Stack Development, with a focus on modern web technologies, backend development, databases, APIs, and cloud technologies.
+My goal is to build practical software solutions and grow as a Software Developer.
 
 🛠️ Tech Stack
-💻 Programming Languages
 
-<p>
+<div align="center">
+
+Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
-</p>
 
-🌐 Web Technologies
+Web & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mysql"/>
 
-🗄️ Database & APIs
+Tools & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,aws,docker,kubernetes,arduino"/>
 
-REST APIs JSON HTTP Methods DBMS SQL
+</div>
 
-☁️ Cloud, DevOps & Tools
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,aws,docker,kubernetes"/>
-</p>
+Also working with:
+REST APIs JSON SQL DBMS OOP SDLC API Testing IoT Embedded Systems
 
-🔌 IoT & Embedded Systems
+💼 Experience
+Full Stack Development
 
-NodeMCU (ESP8266) Arduino IDE Embedded Systems IoT Development
-
-🧩 Software Development
-
-OOP Data Structures & Algorithms REST APIs SDLC DBMS
-
-💼 Internship Experience
-🚀 Full Stack Development
-
-Nobel Software Solutions, Tirupur
+Nobel Software Solutions · Tirupur
 May 2026 – Present
 
-Hands-on experience in modern web technologies.
-Working with HTML, CSS, JavaScript, React.js, Node.js, Express.js and MySQL.
-Developing REST APIs and working with JSON-based data.
-Gaining practical experience in frontend and backend development.
-Working with database management and API integration.
-Exploring web application deployment and scalable database-driven applications.
-Using Git for version control and development workflows.
-🐍 Python Stack Development
+Working with:
 
-Nobel Software Solutions, Tirupur
+HTML CSS JavaScript React.js Node.js Express.js MySQL JSON REST APIs Git
+
+Frontend and backend development
+Database management
+API integration
+Responsive web applications
+Web application deployment
+Python Stack Development
+
+Nobel Software Solutions · Tirupur
 May 2025 – July 2025
 
-Completed hands-on Python Stack Development internship.
-Developed REST API modules for product listing, cart management and order processing.
-Worked with MySQL for database schema design and data management.
-Used Git/GitHub for version control.
-Gained practical experience in SDLC, debugging, API testing and backend development.
+Developed REST APIs for an e-commerce application
+Implemented product, cart and order modules
+Worked with MySQL database design and data management
+Used Git/GitHub for version control
+Practiced debugging and API testing
 🚀 Featured Projects
-🌱 Project 01 — Automatic Irrigation System
 
-IoT-based automated irrigation system designed to control plant watering based on soil moisture and rain detection.
+<table> <tr>
 
-Highlights:
+<td width="50%" valign="top">
 
-Integrated soil moisture and rain sensors with NodeMCU.
-Used relay module to control the water pump.
-Automated irrigation based on environmental conditions.
-Helps reduce water wastage and prevent over-irrigation.
-Integrated Blynk for monitoring.
+🌱 Automatic Irrigation
 
-Tech Stack:
+IoT-based automated irrigation system using soil moisture and rain sensors.
 
-NodeMCU IoT Soil Moisture Sensor Rain Sensor Relay Water Pump Blynk
+Tech
 
-🔐 Project 02 — Laser Beam Security Grid
+NodeMCU IoT Blynk Sensors
 
-IoT-based security system designed for real-time intrusion detection.
+Highlights
 
-Highlights:
+Automated watering
+Rain detection
+Soil moisture monitoring
+Pump control
+Reduced water wastage
 
-Integrated laser transmitter and LDR sensor.
-Used NodeMCU ESP8266 for processing and Wi-Fi connectivity.
-Detects interruption of the laser beam.
-Activates buzzer during unauthorized access.
-Supports remote monitoring.
+</td>
 
-Tech Stack:
+<td width="50%" valign="top">
 
-ESP8266 Arduino IDE LDR Sensor Laser Embedded Systems Wi-Fi
+🔐 Laser Beam Security
 
-🏢 Project 03 — Lease Management System | Salesforce CRM
+Real-time intrusion detection system using laser, LDR and ESP8266.
 
-Salesforce-based application developed to manage properties, tenants, leases and payments.
+Tech
 
-Highlights:
+ESP8266 LDR Arduino Wi-Fi
 
-Created custom objects for Property, Tenant, Lease and Payment.
-Implemented Salesforce Flows.
-Used Validation Rules and Approval Processes.
-Developed Apex Triggers and Scheduled Apex.
-Added automated email notifications and workflows.
+Highlights
 
-Tech Stack:
+Beam interruption detection
+Buzzer alerts
+Wi-Fi connectivity
+Remote monitoring
 
-Salesforce CRM Apex SOQL Lightning App Builder Salesforce Flow Validation Rules Approval Process Scheduled Apex
+</td>
 
-🔥 Project 04 — Elite Exhaust Care
+</tr>
 
-IoT-based kitchen safety monitoring system designed to detect LPG leakage, smoke, fire and abnormal temperature conditions.
+<tr>
 
-Highlights:
+<td width="50%" valign="top">
 
-Integrated MQ-2 gas, flame and temperature sensors.
-Used ESP8266 for real-time monitoring.
-Implemented buzzer alerts.
-Added Wi-Fi-based notifications.
-Enabled remote monitoring through Blynk and Firebase.
+🏢 Lease Management
 
-Tech Stack:
+Salesforce CRM application for property leasing operations.
 
-ESP8266 Embedded C MicroPython MQ-2 Flame Sensor Temperature Sensor Blynk Firebase Arduino IDE
+Tech
 
-🛡️ Project 05 — Guardian Care Autonomous Safety Network
+Salesforce Apex SOQL Flows
 
-IoT-based security system designed for automated restricted-area monitoring.
+Highlights
 
-Highlights:
+Property management
+Tenant management
+Lease tracking
+Payment tracking
+Workflow automation
 
-Integrated PIR and HC-SR04 ultrasonic sensors.
-Used NodeMCU ESP8266 for sensor processing.
-Implemented Wi-Fi connectivity.
-Added buzzer and LED alerts.
-Designed for automated real-time safety monitoring.
+</td>
 
-Tech Stack:
+<td width="50%" valign="top">
 
-NodeMCU ESP8266 PIR Sensor HC-SR04 Buzzer LED Wi-Fi Arduino IDE
+🔥 Elite Exhaust Care
 
-🧑‍💻 Other Projects
-🎵 MP3 Tag Reader and Editor
+IoT safety system for LPG leakage, smoke, fire and temperature monitoring.
 
-Command-line application for reading and modifying ID3 metadata in MP3 files.
+Tech
 
-Advanced C Structures Pointers Bitwise Operations Binary File Handling
+ESP8266 MQ-2 Blynk Firebase
 
-🖼️ Image Steganography Using LSB Encoding & Decoding
+Highlights
 
-Application for hiding and retrieving text messages inside BMP images using the Least Significant Bit technique.
+Gas detection
+Smoke detection
+Fire detection
+Temperature monitoring
+Cloud notifications
 
-C BMP LSB Pointers Structures Bitwise Operations
+</td>
 
-🛒 Ecommerce API Development
+</tr> </table>
 
-REST API development project supporting product listing, cart and order management.
+🧩 More Projects
+Project	Technology
+🎵 MP3 Tag Reader & Editor	C
+🖼️ Image Steganography	C / LSB
+🛡️ Guardian Care Safety Network	ESP8266 / IoT
+🛒 Ecommerce API Development	Python / REST API
+🧭 Learning Journey
 
-Python REST API JSON HTTP Methods Backend Development
+<div align="center">
 
-🎯 My Learning Journey
 BCA
- ↓
-C & C++
- ↓
-Python & Backend Development
- ↓
-REST API & MySQL
- ↓
-IoT & Embedded Systems
- ↓
+  ↓
+C / C++
+  ↓
+Python
+  ↓
+REST APIs + MySQL
+  ↓
+IoT + Embedded Systems
+  ↓
 Salesforce CRM
- ↓
+  ↓
 Full Stack Development
- ↓
-Cloud & DevOps
- ↓
-Software Developer
-📚 Currently Exploring
-frontend:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - React.js
+  ↓
+Cloud + DevOps
 
-backend:
-  - Node.js
-  - Express.js
-  - REST APIs
+</div>
 
-database:
-  - MySQL
+🔭 Currently Learning
 
-cloud:
-  - AWS
-  - Docker
-  - Kubernetes
+<div align="center">
 
-development:
-  - Git & GitHub
-  - SDLC
-  - API Testing
-  - Database Management
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063"/> <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/DevOps-20232A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+
+</div>
+
 🏆 Achievement
-📄 Research Paper Presentation
-
-Presented a research paper on "Cyber Security" at the:
-
-2nd International Conference on Recent Trends in Multi-Disciplinary Research and Innovation (ICRTMRI'25)
-
-📍 A.V.P. College of Arts and Science, Tirupur
-📅 September 2025
-
-💡 Core Competencies
-IoT & Embedded Systems
-Problem Solving
-Analytical Thinking
-Team Collaboration
-Software Testing & Debugging
-Time Management
-Communication
-Adaptability
-Continuous Learning
-🌐 GitHub
 
 <div align="center">
 
-<a href="https://github.com/nowfiyashakkina">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+📄 Cyber Security Research Paper
 
-<br/><br/>
+Presented a research paper on "Cyber Security" at
 
-<img src="https://img.shields.io/badge/Always-Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-1E40AF?style=for-the-badge"/>
+2nd International Conference on Recent Trends in Multi-Disciplinary Research and Innovation — ICRTMRI'25
+
+A.V.P. College of Arts and Science, Tirupur · September 2025
 
 </div>
 
-🤝 Connect With Me
+📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nowfiya-jeshmi-9b386142/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=nowfiyashakkina&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" height="170"/>
 
-<a href="mailto:nowfiyajeshmi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowfiyashakkina&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&bg_color=00000000" height="170"/>
 
-<a href="https://github.com/nowfiyashakkina">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=nowfiyashakkina&theme=transparent&hide_border=true&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"/>
 
 </div>
 
+🌐 Connect
+
 <div align="center">
 
-✨ Learn. Build. Improve. Repeat.
+<a href="https://github.com/nowfiyashakkina"> <img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github"/> </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA8FF&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time;Building+My+Software+Development+Journey" alt="Footer Animation"/>
+<a href="https://www.linkedin.com/in/nowfiya-jeshmi-9b386142b/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
 
-<br/><br/>
+<a href="mailto:nowfiyajeshmi@gmail.com"> <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail"/> </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<br>
+
+<div align="center">
+
+Building. Learning. Growing. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:0b3b63,100:05080d"/>
 
 </div>
